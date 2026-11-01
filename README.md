@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Shashwat 👋
 
-<!--
-**shashwatm006/shashwatm006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Penetration Tester | Computer Science Student
+Interested in ethical hacking, cybersecurity and network security.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- Kali Linux
+- Linux
+- Git & GitHub
+- Python (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Currently Exploring
+- Penetration Testing
+- Network Security
+- Ethical Hacking
+
+### 📫 Connect
+- Email: shashwat27006@gmail.com
+- LinkedIn: Your LinkedIn URL
