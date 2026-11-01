@@ -17,4 +17,4 @@ Interested in ethical hacking, cybersecurity and network security.
 
 ### 📫 Connect
 - Email: shashwat27006@gmail.com
-- LinkedIn: Your LinkedIn URL
+- LinkedIn: https://www.linkedin.com/in/shashwat-mashelkar/
